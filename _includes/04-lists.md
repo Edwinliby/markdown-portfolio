@@ -1,8 +1,6 @@
-<ol>
-<li>Minecraft</li>
-<li>Battlefield V</li>
-<li>Rocket league</li>
-   <li>Amoung us</li>
-   <li>Just cause 3</li>
-  </ol>
+*Minecraft
+*Battlefield V
+*Rocket league
+*Amoung us
+*Just cause 3
 🙂
